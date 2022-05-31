@@ -3,9 +3,9 @@ void main() {
   List<String> appOfTheYear = [
     'FNB APP', //2012
     'bookly', //2013
-    '?', //2014
+    'Wum-drop', //2014
     'DSTV Now', //2015
-    '?', //2016
+    'Live inspects', //2016
     'OrderIn', //2017
     'Cowa-Bunga', //2018
     'Digger', //2019

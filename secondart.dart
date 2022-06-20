@@ -25,4 +25,5 @@ void main() {
   var totalNumberApps = int.parse('9');
   assert(totalNumberApps == 9);
   print(totalNumberApps);
+  print(appOfTheYear.length);
 }
